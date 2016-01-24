@@ -1,8 +1,9 @@
-npf.io
+rushiagr.com
 ===
 
-This is the code behind the site [npf.io](http://npf.io), used by
-[Hugo](http://hugo.spf13.com) to generate a static html site.
+This is the actual code behind [rushiagr.com](http://www.rushiagr.com). It
+uses [Hugo](http://hugo.spf13.com) to generate a static HTML site. Theme is
+mostly copied over from [npf.io](http://npf.io), which was inspired by Hyde theme.
 
 Create a new post
 -----------------
