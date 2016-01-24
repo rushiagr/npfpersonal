@@ -25,10 +25,10 @@ Since I didn't want readers who saved my blog links as bookmarks to suffer, I
 had to manually make sure that the URLs of blog posts are not changed. Hugo by
 default uses the markdown file name as the URL name. Pelican by default
 converts blog post title to a slug and uses that slug in the URL. This has
-helped me provide markdown file names in lexicographical order (first one
-`a-my-first-blog.md`, second one being `b-sequel-of-first-article.md`, and so
-on) for chronological viewing. But now I had to either change the file names,
-or write a `slug` entry to blog post metadata. I figured out the earlier one
+helped me have markdown file names in lexicographical order (first one named as
+`a-my-first-blog.md`, second one `b-sequel-of-first-article.md`, and so
+on) for chronological viewing. But now I have to either change the file names,
+or write a `slug` entry to each blog post's metadata. I figured out the earlier one
 would be less time consuming, and did just that.
 
 One problem I faced was, the site-generation script was throwing an error.
