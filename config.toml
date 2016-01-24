@@ -1,14 +1,14 @@
-baseurl = "https://npf.io"
+baseurl = "http://rushiagr.com"
 languageCode = "en-us"
-title = "npf.io"
+title = "rushiagr"
 theme = "hyde"
-copyright = "Nate Finch"
+copyright = "Rushi Agrawal"
 
 [Author]
-	name = "Nate Finch"
+	name = "Rushi Agrawal"
 
 [Permalinks]
-	blog = "/:year/:month/:filename/"
+	blog = "blog/:year/:month/:day/:filename/"
 	code = "/:filename/"
 
 [Taxonomies]
@@ -17,9 +17,8 @@ copyright = "Nate Finch"
 	series-desc = "series-desc"
 
 [params]
-	description = "code by Nate Finch"
-	twitter = "https://twitter.com/natethefinch"
-	github = "https://github.com/natefinch"
-	gplus = "https://plus.google.com/+NateFinch"
-	disqus = "npfio"
+	description = "code by Rushi Agrawal"
+	twitter = "https://twitter.com/rushiagr"
+	github = "https://github.com/rushiagr"
+	disqus = "rushiagr"
 
