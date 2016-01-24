@@ -13,13 +13,13 @@
       <li><a href="{{.Site.BaseURL}}/blog">Posts</a></li>
       {{ range .Site.Menus.main }}
         <li><a href="{{.URL}}">{{ .Name }} </a></li>
+        <li><a href="https://github.com/rushiagr">Code</a></li>
       {{end}}
       <br/>
       {{with .Site.Menus.code}}
-      <li>Code:</li>
-        {{ range . }}
-          <li><a href="{{.URL}}">{{ .Name }} </a></li>
-        {{end}}
+        <!-- {{ range . }} -->
+        <!--   <li><a href="{{.URL}}">{{ .Name }} </a></li> -->
+        <!-- {{end}} -->
       {{end}}
     </ul>
       {{ with .Site.Params.twitter }}<a href="{{.}}"><i class="fa fa-twitter-square"></i></a>&nbsp;&nbsp;{{end}}
