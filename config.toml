@@ -1,4 +1,4 @@
-baseurl = "http://rushiagr.com"
+baseurl = "http://www.rushiagr.com"
 languageCode = "en-us"
 title = "rushiagr"
 theme = "hyde"
@@ -21,4 +21,3 @@ copyright = "Rushi Agrawal"
 	twitter = "https://twitter.com/rushiagr"
 	github = "https://github.com/rushiagr"
 	disqus = "rushiagr"
-
