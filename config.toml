@@ -17,7 +17,7 @@ copyright = "Rushi Agrawal"
 	series-desc = "series-desc"
 
 [params]
-	description = "Not your average coder"
+	description = "not your average coder"
 	twitter = "https://twitter.com/rushiagr"
 	github = "https://github.com/rushiagr"
 	disqus = "rushiagr"
