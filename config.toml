@@ -1,4 +1,4 @@
-baseurl = "http://www.rushiagr.com"
+baseurl = "http://www.rushiagr.com/personal"
 languageCode = "en-us"
 title = "rushiagr"
 theme = "hyde"
@@ -17,7 +17,7 @@ copyright = "Rushi Agrawal"
 	series-desc = "series-desc"
 
 [params]
-	description = "not your average coder"
+	description = "not your average joe"
 	twitter = "https://twitter.com/rushiagr"
 	github = "https://github.com/rushiagr"
 	disqus = "rushiagr"
